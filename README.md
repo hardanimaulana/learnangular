@@ -3,6 +3,16 @@
 A repository for my angular learning.
 The materials come from LinkedIn Learning course conducted by Ray Villalobos.
 
+If you are running this material on the newest angular version, it can have some problem with the code inside polyfills.ts</br>
+You need to update this code: </br>
+````typescript
+import 'core-js/es7/reflect';
+````
+to: </br>
+````typescript
+import 'core-js/es/reflect';
+````
+
 When I run the ng serve with Linux subsystem on Windows 10 i need to add the command like this to make the browser auto update the file changes:
 
 ```console
