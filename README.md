@@ -17,6 +17,6 @@ Other option: add "poll"=2000 on angular.json so it become like this:
         "poll": 2000
    }
 ```
-source: 
+source: </br>
 https://stackoverflow.com/questions/48092880/ng-serve-not-detecting-file-changes-automatically
 https://stackoverflow.com/questions/51930195/what-is-the-function-of-poll-flag-in-cli
