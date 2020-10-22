@@ -57,3 +57,7 @@ source: </br>
 https://stackoverflow.com/questions/48092880/ng-serve-not-detecting-file-changes-automatically
 https://stackoverflow.com/questions/51930195/what-is-the-function-of-poll-flag-in-cli
 
+There is also a different approach for a case project 3 about the subcomponent. The input method is no longer valid and the solution already discussed in below Q&A.
+
+https://www.linkedin.com/learning/questions/fyithe-input-method-used-in-this-video-is-no-longer-valid-to-perform-this-function-you-must-import-input-from-6635734562259419136
+
